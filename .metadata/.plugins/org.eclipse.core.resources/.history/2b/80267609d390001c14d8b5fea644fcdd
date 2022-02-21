@@ -1,0 +1,5 @@
+package CallByValue;
+
+public class Point {
+
+}
